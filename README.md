@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Daniel.
 
 # Python Engineer based in Europe.
-- 🔭 I’m currently working on @Radicle Insights.
+- 🔭 I’m currently working at @Radicle Insights.
 - 🌱 I’m currently learning Full-Stack, .
 - 👯 I’m looking to collaborate on Blockchain Projects.
 - 💬 Ask me about any python related topic.
