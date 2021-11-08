@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel.
 
-# Python Engineer based in Warsaw, Poland.
+# Python Engineer based in Poland.
 - 🔭 I’m currently working on @Radicle Insights.
 - 🌱 I’m currently learning Full-Stack, .
 - 👯 I’m looking to collaborate on Blockchain Projects.
