@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel.
 
-# Python Engineer based in Europe.
+# Python Software Engineer based in Europe.
 - 🔭 I’m currently working at Radicle Insights.
 - 🌱 I’m currently into ML and Full-Stack w/ Python & TypeScript.
 - 👯 I’m looking to collaborate on Open-Source Projects.
