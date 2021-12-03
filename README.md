@@ -2,7 +2,7 @@
 
 # Python Software Engineer based in Europe.
 - 🔭 I’m currently working at Radicle Insights.
-- 🌱 I’m currently into ML and Full-Stack w/ Python & TypeScript.
+- 🌱 I’m currently into Full-Stack w/ Python & TypeScript, ML and Blockchain.
 - 👯 I’m looking to collaborate on Open-Source Projects.
 - 💬 Ask me about any python related topic.
 - 📫 How to reach me: LinkedIn
