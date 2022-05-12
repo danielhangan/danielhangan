@@ -10,7 +10,7 @@ Always loved coding and solving problems. Switched 100% to software engineering 
 *   🚀  I'm currently working on [Radicle Insights](http://radicleinsights.com)
 *   🧠  I'm learning Go, Machine Learning, Frontend
 *   🤝  I'm open to collaborating on Fintech Projects
-*   
+
 <a href="https://www.twitter.com/HanganDaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HanganDaniel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
