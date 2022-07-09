@@ -8,7 +8,7 @@ Always loved coding and solving problems. Switched 100% to software engineering 
 *   🖥️  See my portfolio at [My Website](http://danielhangan.com)
 *   ✉️  You can contact me at [hangandaniel1@gmail.com](mailto:hangandaniel1@gmail.com)
 *   🚀  I'm currently working on [Radicle Insights](http://radicleinsights.com)
-*   🧠  I'm learning Go, Machine Learning, Frontend
+*   🧠  I'm learning Go, Machine Learning, Frontend Development
 *   🤝  I'm open to collaborating on Fintech Projects
 
 <a href="https://www.twitter.com/HanganDaniel" target="_blank" rel="noreferrer"><img
