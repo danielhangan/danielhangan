@@ -1,6 +1,6 @@
 Hi 👋 My name is Daniel Hangan
 ==============================
-Python Software Engineer
+Lead Software Engineer
 ------------------------
 Always loved coding and solving problems. Switched 100% to software engineering in 2020 from Market Research. Since then I do what I love every day. I combine intelligence, creativity and passion in every project or assignment I touch 🙏. I'm also into yoga, snowboarding and movies.
 
