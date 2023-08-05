@@ -7,7 +7,8 @@ Always loved coding and solving problems. Switched 100% to software engineering 
 *   🌍  I'm based in Lisbon
 *   🖥️  See my portfolio at [My Website](http://danielhangan.com)
 *   ✉️  You can contact me at [hangandaniel1@gmail.com](mailto:hangandaniel1@gmail.com)
-*   🚀  I'm currently working at [Radicle Insights](http://radicleinsights.com) & [Interlinked](https://tryinterlinked.com)
+*   🚀  During the day -> [Radicle Insights](http://radicleinsights.com)
+*   🏗️  During the night -> [Interlinked](https://tryinterlinked.com)
 *   🧠  I'm learning Go, LLMs
 *   🤝  I'm open to collaborating on Fintech Projects
 
