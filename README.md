@@ -8,7 +8,7 @@ Always loved coding and solving problems. Switched 100% to software engineering 
 *   🖥️  See my portfolio at [My Website](http://danielhangan.com)
 *   ✉️  You can contact me at [hangandaniel1@gmail.com](mailto:hangandaniel1@gmail.com)
 *   🚀  During the day -> [Radicle Insights](http://radicleinsights.com)
-*   🏗️  During the night -> [Interlinked](https://tryinterlinked.com)
+*   🏗️  IndieHacking -> [Interlinked](https://tryinterlinked.com) and [PulseView](https://pulseview.co)
 *   🧠  I'm learning Go, LLMs
 *   🤝  I'm open to collaborating on Fintech Projects
 
