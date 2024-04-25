@@ -7,7 +7,7 @@ Always loved coding and solving problems. Switched 100% to software engineering 
 *   🌍  I'm based in Lisbon
 *   🖥️  See my portfolio at [My Website](http://danielhangan.com)
 *   ✉️  You can contact me at [hangandaniel1@gmail.com](mailto:hangandaniel1@gmail.com)
-*   🚀  CTO -> [heyTrain](http://heytrain.com)
+*   🚀  CTO -> [heyTrain](http://heytrain.io)
 *   🧠  Focused on designing and building data-intensive applications
 
 <a href="https://www.twitter.com/HanganDaniel" target="_blank" rel="noreferrer"><img
