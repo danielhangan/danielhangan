@@ -7,10 +7,8 @@ Always loved coding and solving problems. Switched 100% to software engineering 
 *   🌍  I'm based in Lisbon
 *   🖥️  See my portfolio at [My Website](http://danielhangan.com)
 *   ✉️  You can contact me at [hangandaniel1@gmail.com](mailto:hangandaniel1@gmail.com)
-*   🚀  During the day -> [Radicle Insights](http://radicleinsights.com)
-*   🏗️  IndieHacking -> [Interlinked](https://tryinterlinked.com) and [PulseView](https://pulseview.co)
-*   🧠  I'm learning Go, LLMs
-*   🤝  I'm open to collaborating on Fintech Projects
+*   🚀  CTO -> [heyTrain](http://heytrain.com)
+*   🧠  Focused on designing and building data-intensive applications
 
 <a href="https://www.twitter.com/HanganDaniel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HanganDaniel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
