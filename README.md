@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-😎 Founder of [heyTrain](https://heytrain.com) & [Vectora](https://getvectora.com/) - the single API to access your company's knowledge <br />
+😎 Founder of [heyTrain](https://heytrain.com) - the ultimate AI course creator <br />
 🇵🇹 Living in Lisbon, Portugal
 
 ### Find me elsewhere 🌍
