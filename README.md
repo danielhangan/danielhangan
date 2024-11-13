@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-😎 Founder of [heyTrain](https://heytrain.com) - the ultimate AI course creator <br />
+😎 Founder of [screend](https://screend.co) - Automating first-round interviews with AI <br />
 🇵🇹 Living in Lisbon, Portugal
 
 ### Find me elsewhere 🌍
