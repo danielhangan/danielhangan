@@ -6,5 +6,5 @@
 ### Find me elsewhere 🌍
 
 🏡 [My blog](https://danielhangan.com) <br />
-🐦 [Twitter](https://twitter.com/danielhangan_)  <br />
+🐦 [X](https://x.com/danielhangan_)  <br />
 👔 [Linkedin](https://www.linkedin.com/in/danielhangan/)
