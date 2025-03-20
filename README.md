@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel 👋
 
-😎 Founder of [Foresthire](https://foresthire.com) - Voice AI interview with a human touch <br />
+😎 Founder of [Foresthire](https://foresthire.com) - scale hiring with Voice AI interviews <br />
 🇵🇹 Find me in Lisbon
 
 ### Find me elsewhere 🌍
